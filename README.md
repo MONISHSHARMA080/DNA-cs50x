@@ -2,7 +2,7 @@
 
 This repository contains a Python program that identifies a person based on their DNA using Short Tandem Repeats (STRs). The program compares a given DNA sequence with a CSV database containing STR counts for a list of individuals.
 
-## Getting Started
+## Getting Started->
 
 To get started, follow these steps:
 
